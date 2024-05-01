@@ -9,3 +9,7 @@ Your solution should not violate other SOLID principles.
 Create a repository in your GitHub account. Put your solution there. In the readMe file must include the problem statement, UML Class Diagram of Proposed solution.
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
+
+### UML Class Diagram
+
+![uml](<OOP DIP UML.png>)
